@@ -1,6 +1,8 @@
 # pwa-text-editor
 
+
 ## Description
+JATE, or "Just Another Text Editor," is a progressive web app that should be able to be used offline and online
 
 ## Installation
     concurrently: 5.2.0
@@ -9,9 +11,7 @@
     idb: 6.1.2
 
 ## Usage
-
-
-[Where to watch a video example]()
+I personally have struggled to deploy this particular app to Heroku and figure out why it's erroring. 
 
 
 ## License
